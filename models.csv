@@ -1,0 +1,10 @@
+Model,Score
+KNN,0.675
+Decision Tree Classifier,0.9833333333333333
+Random Forest Classifier,0.9833333333333333
+Logistic Regression,0.9
+SVM,0.95
+AdaBoostClassifier,0.975
+GradientBoostingClassifier,0.9666666666666667
+XGBClassifier,0.9833333333333333
+CatBoostClassifier,0.9916666666666667
